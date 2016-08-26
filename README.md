@@ -1,7 +1,1 @@
-# sass2scss
-# sass2scss
-# sass2scss
-# sass2scss
-# sass2scss
-# sass2scss
-# sass2scss
+## Its just a SASS to SCSS Transpiler =D
